@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '41292'
     url: http://www.gutenberg.org/2009/agents/41292
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41674#CorotMasterpieces-in-Colour-Series
 gutenberg_bookshelf: Masterpieces in Colour
 gutenberg_issued: '2012-12-20'
 gutenberg_type: Text
